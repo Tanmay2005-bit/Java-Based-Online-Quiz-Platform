@@ -14,7 +14,7 @@ This README covers: - Project definition and objectives - Detailed features (Adm
 2) All the work done in this web - based quiz platform  is done according to the review - 1 rubrics given on the guvi website.
 3) We have followed the rubrics carefully and performed each step according to it.
 4) We thank you for you time for reading this and giving us this wonderfull opprtunity to work on this project which we have worked on for many days, very hardworkingly, we known some mistakes can be made and we take full responsibility for the same.
-5) Also we have pushed our project on github using git and along with that we have submitted our project in compressed file for better understanding of codes.
+5) Also we have pushed our project on github using git containing every code file file of our project.
 6) Thank you once again now continue reading our README.md to get proper understanding for our project
    
 
