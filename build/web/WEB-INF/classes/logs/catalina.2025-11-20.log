@@ -1,0 +1,53 @@
+20-Nov-2025 19:40:54.519 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.49
+20-Nov-2025 19:40:54.527 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 6 2025 01:31:11 UTC
+20-Nov-2025 19:40:54.527 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.49.0
+20-Nov-2025 19:40:54.527 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+20-Nov-2025 19:40:54.527 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Nov-2025 19:40:54.527 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Nov-2025 19:40:54.527 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+20-Nov-2025 19:40:54.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.2+7-58
+20-Nov-2025 19:40:54.529 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Nov-2025 19:40:54.529 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\dharm\Documents\apache-tomcat-10.1.49
+20-Nov-2025 19:40:54.530 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\dharm\Documents\apache-tomcat-10.1.49
+20-Nov-2025 19:40:54.548 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\dharm\Documents\apache-tomcat-10.1.49\conf\logging.properties
+20-Nov-2025 19:40:54.548 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Nov-2025 19:40:54.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Nov-2025 19:40:54.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Nov-2025 19:40:54.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+20-Nov-2025 19:40:54.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Nov-2025 19:40:54.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+20-Nov-2025 19:40:54.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Nov-2025 19:40:54.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+20-Nov-2025 19:40:54.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+20-Nov-2025 19:40:54.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Nov-2025 19:40:54.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\dharm\Documents\apache-tomcat-10.1.49
+20-Nov-2025 19:40:54.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\dharm\Documents\apache-tomcat-10.1.49
+20-Nov-2025 19:40:54.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\dharm\Documents\apache-tomcat-10.1.49\temp
+20-Nov-2025 19:40:54.557 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.9] using APR version [1.7.6].
+20-Nov-2025 19:40:54.578 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.0 8 Apr 2025]
+20-Nov-2025 19:40:55.065 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Nov-2025 19:40:55.094 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [996] milliseconds
+20-Nov-2025 19:40:55.184 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Nov-2025 19:40:55.184 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+20-Nov-2025 19:40:55.205 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\dharm\Documents\apache-tomcat-10.1.49\webapps\docs]
+20-Nov-2025 19:40:55.665 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\dharm\Documents\apache-tomcat-10.1.49\webapps\docs] has finished in [459] ms
+20-Nov-2025 19:40:55.665 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\dharm\Documents\apache-tomcat-10.1.49\webapps\examples]
+20-Nov-2025 19:40:56.669 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\dharm\Documents\apache-tomcat-10.1.49\webapps\examples] has finished in [1,004] ms
+20-Nov-2025 19:40:56.670 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\dharm\Documents\apache-tomcat-10.1.49\webapps\host-manager]
+20-Nov-2025 19:40:56.753 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\dharm\Documents\apache-tomcat-10.1.49\webapps\host-manager] has finished in [83] ms
+20-Nov-2025 19:40:56.753 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\dharm\Documents\apache-tomcat-10.1.49\webapps\manager]
+20-Nov-2025 19:40:56.863 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\dharm\Documents\apache-tomcat-10.1.49\webapps\manager] has finished in [109] ms
+20-Nov-2025 19:40:56.863 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\dharm\Documents\apache-tomcat-10.1.49\webapps\ROOT]
+20-Nov-2025 19:40:56.919 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\dharm\Documents\apache-tomcat-10.1.49\webapps\ROOT] has finished in [56] ms
+20-Nov-2025 19:40:56.930 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Nov-2025 19:40:56.980 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1883] milliseconds
+20-Nov-2025 19:41:16.549 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\dharm\Documents\apache-tomcat-10.1.49\conf\Catalina\localhost\JavaQuizPlatform.xml]
+20-Nov-2025 19:41:16.550 WARNING [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/JavaQuizPlatform] in deployment descriptor [C:\Users\dharm\Documents\apache-tomcat-10.1.49\conf\Catalina\localhost\JavaQuizPlatform.xml] has been ignored
+20-Nov-2025 19:41:17.163 INFO [http-nio-8080-exec-9] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Nov-2025 19:41:17.174 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\dharm\Documents\apache-tomcat-10.1.49\conf\Catalina\localhost\JavaQuizPlatform.xml] has finished in [625] ms
+20-Nov-2025 19:41:17.179 INFO [http-nio-8080-exec-10] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/JavaQuizPlatform]] after start() had already been called. The second call will be ignored.
+20-Nov-2025 19:42:34.940 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+20-Nov-2025 19:42:34.941 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Nov-2025 19:42:34.958 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Nov-2025 19:42:35.005 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Nov-2025 19:42:35.016 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
