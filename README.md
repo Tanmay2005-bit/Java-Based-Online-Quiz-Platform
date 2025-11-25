@@ -9,6 +9,9 @@ It provides Admins, Quiz Creators, and Participants with a seamless way to manag
 
 This README covers: - Project definition and objectives - Detailed features (Admin / Creator / Participant) - System architecture & flowcharts - Database schema & ERD explanation - Security measures in depth - Testing strategies (manual + functional + database + load testing) - Step‑by‑step development process (NetBeans) & common errors solved - Future enhancements - Advantages of the platform - Final summary
 
+## IMPORTANT ANNOUNCEMENT :-
+The first part of the project that is  Problem Understanding and Solution Designing is uploaded in a PDF form along with out project in this github repository.
+
 # Notes :-
 1) Here in this quiz platform we have used a simple, secured, user-friendly interface which helps us in creating end to end healthy learning environment.
 2) All the work done in this web - based quiz platform  is done according to the review - 1 rubrics given on the guvi website.
@@ -19,15 +22,15 @@ This README covers: - Project definition and objectives - Detailed features (Adm
    
 
 ## Project Objectives 
-1.	To develop a user‑friendly web application for conducting online quizzes.
-2.	To provide a multi‑role access system (Admin, Creator, Participant).
-3.	To allow quiz creators to add, manage, and publish quizzes.
-4.	To allow participants to attempt quizzes easily.
-5.	To automatically evaluate responses and generate performance reports.
-6.	To maintain secure user authentication and session management.
-7.	To implement structured database storage for quizzes and results.
-8.	To ensure scalability for large numbers of participants.
-9.	To provide real‑time interactions via messaging modules.
+1. 	To develop a user‑friendly web application for conducting online quizzes.
+2.	   To provide a multi‑role access system (Admin, Creator, Participant).
+3. 	To allow quiz creators to add, manage, and publish quizzes.
+4.  	To allow participants to attempt quizzes easily.
+5.	   To automatically evaluate responses and generate performance reports.
+6.	   To maintain secure user authentication and session management.
+7.	   To implement structured database storage for quizzes and results.
+8.	   To ensure scalability for large numbers of participants.
+9. 	To provide real‑time interactions via messaging modules.
 10.	To allow admins to monitor system usage and maintain data integrity.
 11.	To support multiple quizzes under multiple categories.
 12.	To ensure cross‑browser support using HTML5, CSS3, Bootstrap.
