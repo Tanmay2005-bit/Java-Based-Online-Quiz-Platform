@@ -9,6 +9,15 @@ It provides Admins, Quiz Creators, and Participants with a seamless way to manag
 
 This README covers: - Project definition and objectives - Detailed features (Admin / Creator / Participant) - System architecture & flowcharts - Database schema & ERD explanation - Security measures in depth - Testing strategies (manual + functional + database + load testing) - Step‑by‑step development process (NetBeans) & common errors solved - Future enhancements - Advantages of the platform - Final summary
 
+# Notes :-
+1) Here in this quiz platform we have used a simple, secured, user-friendly interface which helps us in creating end to end healthy learning environment.
+2) All the work done in this web - based quiz platform  is done according to the review - 1 rubrics given on the guvi website.
+3) We have followed the rubrics carefully and performed each step according to it.
+4) We thank you for you time for reading this and giving us this wonderfull opprtunity to work on this project which we have worked on for many days, very hardworkingly, we known some mistakes can be made and we take full responsibility for the same.
+5) Also we have pushed our project on github using git and along with that we have submitted our project in compressed file for better understanding of codes.
+6) Thank you once again now continue reading our README.md to get proper understanding for our project
+   
+
 ## Project Objectives 
 1.	To develop a user‑friendly web application for conducting online quizzes.
 2.	To provide a multi‑role access system (Admin, Creator, Participant).
@@ -330,12 +339,11 @@ New modules (leaderboard, analytics, certificate generation) can easily be added
 This project is a complete, functional, and interactive web‑based quiz platform built with Java technologies. Throughout the development, multiple technical challenges were resolved, resulting in a robust final system.
 This detailed README demonstrates the end‑to‑end development, troubleshooting, architecture, and implementation.
 
+By
+Tanmay Sharma
 
-# Notes :-
-1) Here in this quiz platform we have used a simple, secured, user-friendly interface which helps us in creating end to end healthy learning environment.
-2) All the work done in this web - based quiz platform  is done according to the review - 1 rubrics given on the guvi website.
-3) We have followed the rubrics carefully and performed each step according to it.
-4) We thank you for you time for reading this and giving us this wonderfull opprtunity to work on this project which we have worked on for many days, very hardworkingly, we known some mistakes can be made and we take full responsibility for the same.
+
+
 
 
 
