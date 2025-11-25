@@ -9,7 +9,7 @@ It provides Admins, Quiz Creators, and Participants with a seamless way to manag
 
 This README covers: - Project definition and objectives - Detailed features (Admin / Creator / Participant) - System architecture & flowcharts - Database schema & ERD explanation - Security measures in depth - Testing strategies (manual + functional + database + load testing) - Step‑by‑step development process (NetBeans) & common errors solved - Future enhancements - Advantages of the platform - Final summary
 
-## Project Objectives (Expanded)
+## Project Objectives 
 1.	To develop a user‑friendly web application for conducting online quizzes.
 2.	To provide a multi‑role access system (Admin, Creator, Participant).
 3.	To allow quiz creators to add, manage, and publish quizzes.
@@ -27,7 +27,7 @@ This README covers: - Project definition and objectives - Detailed features (Adm
 15.	To minimize errors using centralized exception handling.
 
 
-# Admin Features (Detailed)
+# Admin Features 
 4.1 User Management
 •	Add new users with specific roles.
 •	Update user details (email, password, role).
@@ -51,7 +51,7 @@ This README covers: - Project definition and objectives - Detailed features (Adm
 •	Enforce session timeout policies.
 •	Prevent unauthorized access via filters.
 
-# Quiz Creator Features (Detailed)
+# Quiz Creator Features 
 1) Quiz Creation
 •	Create quiz with title & description.
 •	Add multiple questions to a quiz.
@@ -75,7 +75,7 @@ This README covers: - Project definition and objectives - Detailed features (Adm
 •	Answer participant doubts.
 
 
-# Participant Features (Detailed)
+# Participant Features 
 1) Dashboard View
 •	View all available published quizzes.
 •	Check quiz rules before attempting.
